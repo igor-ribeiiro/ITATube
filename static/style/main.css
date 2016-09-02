@@ -1,0 +1,28 @@
+body {
+ margin:0;
+ padding:0;
+}
+
+body .header {
+  margin-top: 10px;
+}
+
+.header #dropdownMenu1 {
+  text-decoration: none;
+  color: #666666;
+}
+
+.header #search-icon {
+  padding-right: 30px;
+  padding-left: 30px;
+  background-color: #F0F0F0; /*gray*/
+  margin-left: -20px;
+}
+
+.header .dropdown-toggle {
+  color: #666666;
+}
+
+.header #enviar {
+     background-color: "#F0F0F0";
+}
