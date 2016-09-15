@@ -31,3 +31,16 @@ body .header {
     background-color: #F1F1F1;
     padding: 10px;
 }
+
+.main #listVideos li{
+    list-style-type: none;
+    display: block;
+    float: left;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.main #listVideos li p {
+    margin-left: 10px;
+    font-weight: bold;
+}
