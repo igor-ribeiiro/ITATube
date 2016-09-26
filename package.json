@@ -1,0 +1,19 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "My youtube site, the ITATube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igor-ribeiiro/ITATube-.git"
+  },
+  "author": "Igor Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igor-ribeiiro/ITATube-/issues"
+  },
+  "homepage": "https://github.com/igor-ribeiiro/ITATube-#readme"
+}
