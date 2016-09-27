@@ -73,8 +73,33 @@
                 <div class = "col-md-8">
                     <iframe width="854" height="480" src="https://www.youtube.com/embed/kzOkza_u3Z8?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
                     <h4><strong>Baile de Favela</strong></h4>
-                    <img src="../img/canalKondZilla.jpg" class = "squareProfile"/>
-                    Canal KondZilla
+                    <div class = "row">
+                        <div class = "col-md-8">
+                            <img src="../img/canalKondZilla.jpg" class = "squareProfile"/>
+                            Canal KondZilla
+                        </div>
+                        <div class = "col-md-2">
+                            <button type="button" onClick="increment()">
+                                <img src="../img/thumbsUp.png" class="squareProfile"/>
+                            </button>
+                            <h3 id="thumbsUp">0</h3>
+                        </div>
+                        <div class = "col-md-2">
+                            <button type="button" onclick="decrease()">
+                                <img src="../img/thumbsDown.jpg" class = "squareProfile"/>
+                            </button>
+                            <h3 id="thumbsDown">0</h3>
+                        </div>
+                    </div>
+                    <div class = "row">
+                        <div class = "col-md-8 col-md-offset-2">
+                            <h4 id="barTitle">Likes vs Dislike bar</h4>
+                            <div id = "bar">
+                                <div id="likes"></div>
+                                <div id="dislikes"></div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div class = "col-md-4">
                     <ul id="listVideos">

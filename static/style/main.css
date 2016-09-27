@@ -61,3 +61,26 @@ body .header {
     width: 48px;
     height: 48px;
 }
+
+#bar {
+    width: 100%;
+    margin: 0 auto;
+}
+
+#barTitle {
+    text-align: center;
+}
+
+#likes {
+    height: 5px;
+    float: left;
+    background-color: blue;
+    width: 50%;
+}
+
+#dislikes {
+    height: 5px;
+    float: right;
+    background-color: red;
+    width: 50%;
+}
