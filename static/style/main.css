@@ -84,3 +84,33 @@ body .header {
     background-color: red;
     width: 50%;
 }
+
+.footer {
+    margin-top: 10px;
+}
+
+.footer a {
+    color: black;
+}
+
+.footer a:hover {
+    text-decoration: none;
+    color: black;
+}
+.footer a:active {
+    text-decoration: none;
+    color: black;
+}
+.footer a:hover {
+    text-decoration: none;
+    color: black;
+}
+.footer a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.footer font {
+    size: 1px;
+    margin-right: 30px;
+}
