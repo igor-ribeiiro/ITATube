@@ -85,6 +85,13 @@ body .header {
     width: 50%;
 }
 
+#feedbackButton {
+    width: 200px;
+    height: 65px;
+    margin-top: 350px;
+    margin-left: 330px;
+}
+
 .footer {
     margin-top: 10px;
 }
