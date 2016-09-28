@@ -61,3 +61,7 @@ body .header {
     width: 48px;
     height: 48px;
 }
+
+.footer {
+    margin-top: 10px;
+}
