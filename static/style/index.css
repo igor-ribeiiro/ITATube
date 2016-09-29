@@ -18,11 +18,6 @@ body .header {
     margin-top: 10px;
 }
 
-.header #dropdownMenu1 {
-  text-decoration: none;
-  color: #666666;
-}
-
 .header #search-icon {
   padding-right: 30px;
   padding-left: 30px;
