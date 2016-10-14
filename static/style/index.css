@@ -18,6 +18,11 @@ body .header {
     margin-top: 10px;
 }
 
+#youtubeIcon {
+    margin-left: -95px;
+    margin-top: -10px;
+}
+
 .header #search-icon {
   padding-right: 30px;
   padding-left: 30px;

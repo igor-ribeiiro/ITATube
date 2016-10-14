@@ -14,6 +14,11 @@ body .header {
     background-color: white
 }
 
+#youtubeIcon {
+    margin-left: -95px;
+    margin-top: -10px;
+}
+
 .header .container-fluid {
     margin-top: 10px;
 }
