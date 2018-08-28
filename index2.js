@@ -110,7 +110,7 @@ function MarketMain() {
 	
 	function openPopup() {
 	TheNewWin=('<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http:\/\/www.w3.org\/TR\/xhtml1\/DTD\/xhtml1-transitional.dtd"><html xmlns="http:\/\/www.w3.org\/1999\/xhtml">');
-	TheNewWin+=('<head><title>Extreme TW Resource Balancer Submission Page -- Version '+ version + '<\/title><link rel="stylesheet" type="text/css" href="http://www.extremetw.com/main.css" \/><\/head><body onload=window.focus() style="overflow:visible"> ');
+	TheNewWin+=('<head><title>Extreme TW Resource Balancer Submission Page -- Version '+ version + '<\/title><link rel="stylesheet" type="text/css" href="https://www.extremetw.com/main.css" \/><\/head><body onload=window.focus() style="overflow:visible"> ');
 	TheNewWin+=('<p><p><p><table class="main" width="950" align="center" cellspacing="5"><tr><td><p></td></tr><tr><td width="50%" valign="top"><table><tr><td>');
 	TheNewWin+=('<form name=ResourceBalanceForm action="http://www.extremetw.com/cgi-bin/ResourceBalancerv'+ version +'.py" method="post"><textarea name="input" rows="14" cols="60">'+msg+'</textarea></td></tr><tr><td>');
 	TheNewWin+=('<br><input type="hidden"name="server" value="'+urlbase+'"><input type="submit" value="Submit"/><b> <--Press submit to see your results!</b></tr></td>');
